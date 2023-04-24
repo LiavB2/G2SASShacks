@@ -12,16 +12,16 @@
         <main>
           <article class="profile">
             <picture class="profile-img">
-              <source srcset="images/profile.png" media="(min-width: 600px)">
-              <img src="images/profile.png" alt="profile">
+              <source srcset="images/profpic.png" media="(min-width: 600px)">
+              <img src="images/profpic.png" alt="profile">
             </picture>
             <div class="content">
               <p class="detail">Coding Profile</p>
-                <h1>NAME</h1>
+                <h1>Liav Bar</h1>
               <p>
-                Highschool student who has been coding for 3 years.
+                Junior at Del Norte who loves football, music, and robotics.
               </p>
-              <a href="https://pages.github.com/" class="button"></a>
+              <a href="https://liavb2.github.io/ominicient-lavebear/" class="button"></a>
             </div>
           </article>
         </main>
