@@ -6,4 +6,4 @@
 </div>
 
 
-![Alt text](images/snakescore.png)
+![Alt text](images/snakie.jpg)
